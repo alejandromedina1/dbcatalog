@@ -1,0 +1,181 @@
+[
+    {"name" : "Nike Air Max 90 Futura",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5340ba0a-06e8-4d98-9f9c-75f5fc044c65/air-max-90-futura-womens-shoes-kvRZ4h.png",
+"description": "Are you ready to take your style up a notch? The Nike Air Max 90 Futura reimagines an icon of Air. Sawtooth edging around the outsole combines with soft suedes, smooth leather and partially floating Swoosh logos to deliver skillfully crafted luxury. Plush padding around the ankle mixes with tried-and-true Air cushioning to bring you first-class comfort. With a design that’s sporty, playful and oh-so comfortable, these kicks are all about stepping into the future.",
+"price": 160,
+"collection": "Air Max 90",
+"category": "Women's Shoes",
+"color": ["Brown", "Pink", "White"]
+},
+
+{"name" : "Nike Air Max 97",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a47b2ef9-8239-4e82-99fd-e6159c0df489/air-max-97-mens-shoes-LJmK45.png",
+"description": "Featuring the original ripple design inspired by Japanese bullet trains, the Nike Air Max 97 lets you push your style full-speed ahead. Taking the revolutionary full-length Nike Air unit that shook up the running world and adding fresh colors and crisp details, it lets you ride in first-class comfort.",
+"price": 175,
+"collection": "Air Max 97",
+"category": "Men's Shoes",
+"color": ["White"]
+},
+
+{"name" : "Nike Air Max 90",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b3d35df1-86a6-471a-b055-957a07b79601/air-max-90-womens-shoes-2ZsM2w.png",
+"description": "Nothing as fly, nothing as comfortable, nothing as proven—the Nike Air Max 90 stays true to its roots with the iconic Waffle sole, stitched overlays and classic TPU accents. Fresh details give a modern look while Max Air cushioning adds comfort to your journey.",
+"price": 130,
+"collection": "Air Max 90",
+"category": "Women's Shoes",
+"color": ["White"]
+},
+
+{"name" : "Nike Air VaporMax Plus",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dbd4c336-f10d-45bb-85c5-bce7b5dda725/air-vapormax-plus-womens-shoes-xbt7zf.png",
+"description": "The Nike Air VaporMax Plus looks to the past to propel you into the future. Nodding to the '98 original with its floating cage and padded upper, it adds heel-to-toe VaporMax Air technology to ramp up the comfort and create a modern look. A vibrant pink colorway highlights the head-turning design, helping you walk into tomorrow with style.",
+"price": 210,
+"collection": "Air VaporMax",
+"category": "Women's Shoes",
+"color": ["Pink"]
+},
+
+{"name" : "Nike Air Max 270 GO",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9154bf22-6f8b-468f-b0a8-4617c651dd44/air-max-270-go-big-kids-easy-on-off-shoes-GDD3R0.png",
+"description": "The Nike Air Max 270 GO is ready for you to do just that—GO! What's GO, you ask? It's our answer to making shoes super easy to take on and off—hands free! Step on the collapsible heel and watch it widen. Slip your foot in, and see the heel snap back into place. And done! Don't forget the B-I-G 270 Air unit for that lightweight and bouncy feel with each step to recess, after-school activities or just all-day play.",
+"price": 130,
+"collection": "Air Max 270",
+"category": "Big Kids' Easy On/Off Shoes",
+"color": ["White", "Yellow", "Blue" ]
+},
+
+{"name" : "Nike Air Max 90 Premium",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a7098333-e02c-4f91-a864-42d5375968c3/air-max-90-premium-mens-shoes-1bT55Z.png",
+"description": "Nothing as fly, nothing as comfortable, nothing as proven—the Nike Air Max 90 Premium stays true to its roots with the iconic Waffle outsole, stitched overlays and classic TPU accents. Fresh colors give a modern look while Max Air cushioning adds comfort to your journey.",
+"price": 150,
+"collection": "Air Max 90",
+"category": "Men's Shoes",
+"color": ["Grey", "Black", "White"]
+},
+
+{"name" : "Nike Air Max 97 SE",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e34d12a4-fed6-4341-9ac7-e99a2ae3c932/air-max-97-se-mens-shoes-6lLGVl.png",
+"description": "Step into the history books. These special edition kicks pay homage to Frank Rudy, the man who created the coveted cornerstone of cushioning—Air. From the see-through 'Air pocket' heel to the release date proudly stamped on the Air unit, celebrate Frank's legacy with fun details that deliver a lesson in comfort.",
+"price": 158,
+"collection": "Air Max 97",
+"category": "Men's Shoes",
+"color": ["White", "Blue", "Orange"]
+},
+
+{"name" : "Nike Air Vapormax 2021 FK",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc64e726-4ddb-4d57-bf0d-9b1e8dadd321/air-vapormax-2021-fk-womens-shoes-1WB8SL.png",
+"description": "Made from at least 40% recycled materials by weight, the Nike Air VaporMax 2021 FK is airy and easy to wear with superstretchy, recycled Flyknit fabric (plus a soft collar that sculpts your ankle). The stitched-on Swoosh and recycled TPU heel clip add a splash of intrigue as you float down the streets on incredibly soft VaporMax cushioning.",
+"price": 198,
+"collection": "Air Max Vapormax",
+"category": "Women's Shoes",
+"color": ["Black"]
+},
+
+{"name" : "Nike Air Max 270",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7c85b17c-e3b5-427a-bccb-b83e8d857cf5/air-max-270-baby-toddler-shoes-ch3X2c.png",
+"description": "The Nike Air Max 270 is all about providing BIG Air for little feet. Kiddos can see 270 degrees of cushioning through the Air window in the heel. Plus, a lightweight upper and flexible sole help keep all their adventures comfy.",
+"price": 80,
+"collection": "Air Max 270",
+"category": "Baby/Toddler Shoes",
+"color": ["Pink"]
+},
+
+{"name" : "Nike Air VaporMax 2021 Flyknit Next Nature",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c2bc8eda-20b9-4516-b2ed-afd936530225/air-vapormax-2021-flyknit-next-nature-mens-shoes-NpTfFz.png",
+"description": "Made to keep you moving, these sneakers just might be the closest you'll come to walking on Air. Originally designed for running but adopted by the streets, responsive heel-to-toe VaporMax Air cushioning puts a spring in your step. Plus, super-stretchy Flyknit fabric makes for an airy feel and easy-to-wear design while stitched-on Swoosh logos add a splash of visual intrigue as you float down the street.",
+"price": 179,
+"collection": "Air Max VaporMax",
+"category": "Men's Shoes",
+"color": ["Green"]
+},
+
+{"name" : "Nike Air Max 97 SE",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5ecc4749-74d4-4adb-9889-445c9dac4abd/air-max-97-se-mens-shoes-6mZC1L.png",
+"description": "Max Air changed the game in ’87. Now, we honor its emerald anniversary (35 years!) with the Nike Air Max 97 SE. Emerald graphics and colors highlight this big landmark, while rocking the classic curvy design lines and cushioning of the original.",
+"price": 151,
+"collection": "Air Max 97",
+"category": "Men's Shoes",
+"color": ["Black", "White", "Blue" ]
+},
+
+{"name" : "Nike Air Max 90 LTR SE",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01ad81e2-f06f-4b50-a2ca-7db99122a8ec/air-max-90-ltr-se-baby-toddler-shoes-tPrVLv.png",
+"description": "The easiest way for kids to express themselves? Bright colors! Bring that joy to their next pair of kicks with the Nike Air Max 90 LTR. We updated our iconic 90 with softer and more flexible cushioning than previous versions, plus a shape that gives toes more wiggle room. The design lines and Air unit are still there to bring this '90s fave to a new generation.",
+"price": 64,
+"collection": "Air Max 90",
+"category": "Baby/Toddler Shoes",
+"color": ["White", "Blue", "Pink" ]
+},
+
+{"name" : "Nike Air Max 270",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/086a684c-04d9-4369-aef8-28b18de5dd2f/air-max-270-big-kids-shoes-HbtNX3.png",
+"description": "Nike's first lifestyle Air Max shoe is everything you imagined with the Nike Air Max 270. What we love most (for obvious reasons): the BIG, bold wraparound 270 Air unit to showcase our greatest technology everywhere you go.",
+"price": 100,
+"collection": "Air Max 270",
+"category": "Big Kids' Shoes",
+"color": ["Black", "Blue", "Green" ]
+},
+
+{"name" : "Nike Air Max 97",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9ea2216a-d718-4b5c-b1e0-47f72cb39fc9/air-max-97-womens-shoes-Fr6rM4.png",
+"description": "Push your style full speed ahead with the Air Max 97. Its iconic design takes inspiration from water droplets and Japanese bullet trains. Full-length Nike Air cushioning lets you ride in performance comfort. Lace up and ride first class.",
+"price": 190,
+"collection": "Air Max 97",
+"category": "Women's Shoes",
+"color": ["Gold"]
+},
+
+{"name" : "Nike Air Max 90",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/10a169f5-e4c7-4295-9e54-e401c4ecbeec/air-max-90-big-kids-shoes-NP4d1g.png",
+"description": "How do you make an icon even better? Unleash its wild side! A medley of animal prints lends new energy and power to the Nike Air Max 90. The shaped toe box gives your toes more wiggle room while Max Air units tuned just for you help keep playtime comfy. Waffle outsoles, stitched overlays and classic molded plastic accents bring a '90s fave to a new generation.",
+"price": 77,
+"collection": "Air Max 90",
+"category": "Big Kids' Shoes",
+"color": ["White", "Black", "Red"]
+},
+
+{"name" : "Nike Air Max 90 Toggle SE",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9a6c1903-9d0f-445d-845c-a51c7666c022/air-max-90-toggle-se-baby-toddler-shoes-2V9vpS.png",
+"description": "Follow the trail of pawprints left by your little critter when they rock the Nike Air Max 90 Toggle. Furry Swoosh logos bring these shoes to life while a toggle system helps secure the fit. An Air unit in the heel provides comfortable cushioning so little ones are ready to play. Slip them on, adjust the toggle and let your kiddo imagine themselves as their favorite animal.",
+"price": 58,
+"collection": "Air Max 90",
+"category": "Baby/Toddler Shoes",
+"color": ["Grey", "White", "Peach"]
+},
+
+{"name" : "Nike Air Max 90",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/291f1945-f746-4e08-ade9-a3fddaad9dec/air-max-90-mens-shoes-DLDWPT.png",
+"description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated through rare colorways, its striking visuals, Waffle outsole, and exposed Air cushioning keep it alive and well.",
+"price": 130,
+"collection": "Air Max 90",
+"category": "Men's Shoes",
+"color": ["White", "Black", "Grey", "Orange"]
+},
+
+{"name" : "Nike Air Max 97 Premium",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5c0adc3c-6bdd-4378-9d13-69229a797b9c/air-max-97-premium-mens-shoes-vf75n4.png",
+"description": "Good fortune is coming your way. The tried-and-true icon from the '90s now dips your feet in the pond of prosperity. Koi detailing (including scales and colors) pair with a Koi graphic on the sockliner for an ambitious look. The wavy side panels add water-like flow, while visible Nike Air cushioning delivers meditative comfort.",
+"price": 185,
+"collection": "Air Max 97",
+"category": "Men's Shoes",
+"color": ["Yellow", "Gold", "White"]
+},
+
+{"name" : "Nike Air Max 90 Toggle SE",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/533c59d2-f820-46bd-89f5-0ec824f560ae/air-max-90-toggle-se-baby-toddler-shoes-DQN4V9.png",
+"description": "Your little adventurer will love exploring the outdoors in the Nike Air Max 90 Toggle SE. This special edition of our kid-sized AM90 encourages discovery and play through nature. Unearth all the fun details we tucked into these durable shoes, like the mushroom-inspired print above the midsole. Can your kiddo spot it?",
+"price": 64,
+"collection": "Air Max 90",
+"category": "Baby/Toddler Shoes",
+"color": ["Olive", "Light Gold", "Orange", "Lilac", "Yellow"]
+},
+
+{"name" : "Nike Air Max 90 G NRG",
+"urlImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3a237356-9524-46fd-bb3b-53068dadccc7/air-max-90-g-nrg-golf-shoes-V1mRpB.png",
+"description": "The original Nike Air Max 90 was renowned for its clean lines and timeless style. This version stays true to the classic design with updated traction for better grip on the course. Its special design is inspired by a historic course in Scotland, which naturally embeds tradition with the unpredictable nature of coastal links.",
+"price": 150,
+"collection": "Air Max 90",
+"category": "Golf Shoes",
+"color": ["White", "Light Green", "Dark Green", "Brown", "Pink"]
+}
+]
